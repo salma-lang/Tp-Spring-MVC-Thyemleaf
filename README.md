@@ -38,6 +38,11 @@ Assurez-vous également que la configuration JPA affiche les requêtes SQL et me
 
 Enfin, visitez http://localhost:8080 dans votre navigateur.
 
+## Démonstration Vidéo:
+
+Voila la démonstration vidéo de ce projet :
+
+
 
 
 
