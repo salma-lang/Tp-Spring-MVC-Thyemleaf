@@ -42,9 +42,7 @@ Enfin, visitez http://localhost:8080 dans votre navigateur.
 
 Voila la démonstration vidéo de ce projet :
 
-
-
-
+https://github.com/user-attachments/assets/97917346-d335-4003-93da-d4ffe9436aaa
 
 
 
