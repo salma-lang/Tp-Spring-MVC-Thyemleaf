@@ -27,9 +27,11 @@ Commencez par créer une nouvelle base de données avec la commande SQL suivante
 CREATE DATABASE thymeleaf;
 ```
 
-Ensuite, dans le fichier de configuration 
+Ensuite, dans le fichier de configuration application.properties
 ```properties
 server.port=8080
+```
+
 Définissez le port du serveur à 8080 et configurez la base de données avec l'URL jdbc:mysql://localhost:3306/thymeleaf?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC, le nom d'utilisateur root et laissez le mot de passe vide.
 
 Assurez-vous également que la configuration JPA affiche les requêtes SQL et met à jour le schéma de la base de données.
