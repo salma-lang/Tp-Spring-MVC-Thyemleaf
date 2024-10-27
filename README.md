@@ -17,5 +17,9 @@ Dans ce TP, nous allons apprendre à développer une application Web CRUD avec S
 
 ## Structure du projet:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6097d2af-171f-4723-99ae-68519d2dcb05)
+
+## Test:
+
+
 
